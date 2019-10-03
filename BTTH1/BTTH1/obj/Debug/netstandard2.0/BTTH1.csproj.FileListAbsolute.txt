@@ -1,0 +1,17 @@
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\bin\Debug\netstandard2.0\BTTH1.deps.json
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\bin\Debug\netstandard2.0\BTTH1.dll
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\bin\Debug\netstandard2.0\BTTH1.pdb
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\BTTH1.csprojAssemblyReference.cache
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\Chap1.xaml.g.cs
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\Chap2_1.xaml.g.cs
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\Chap2_2.xaml.g.cs
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\Chap2_3.xaml.g.cs
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\Chap2_4.xaml.g.cs
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\BTTH1.csproj.CoreCompileInputs.cache
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\BTTH1.AssemblyInfoInputs.cache
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\BTTH1.AssemblyInfo.cs
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\BTTH1.dll
+E:\HK_I\Xamarin\prac\BTTH1\BTTH1\BTTH1\obj\Debug\netstandard2.0\BTTH1.pdb
